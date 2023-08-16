@@ -39,3 +39,5 @@ El Finder es el administrador de archivos en macOS Ventura. Te permite navegar p
 
 Espero que esta información te haya dado una visión general de las características clave de macOS Ventura y cómo te permite trabajar de manera más eficiente y efectiva en tu Mac.
 
+![MacBook](https://github.com/jorgeioslab/test/blob/main/IntroduccionMacOS/CapturaPanel.png)
+
