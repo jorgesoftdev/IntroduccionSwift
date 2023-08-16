@@ -2,6 +2,9 @@
 
 macOS Ventura es la última versión del sistema operativo desarrollado por Apple para sus computadoras Mac. Presenta una serie de características y mejoras que hacen que la experiencia de usar una Mac sea aún más poderosa y conveniente.
 
+![MacBook](https://github.com/tuusuario/turepositorio/blob/main/imagenes/macbook.jpg)
+
+
 ## Barra de menús
 
 La barra de menús es una característica distintiva en macOS Ventura. Se encuentra en la parte superior de la pantalla y contiene una variedad de menús desplegables que proporcionan acceso rápido a varias funciones del sistema y aplicaciones. Algunos elementos comunes en la barra de menús incluyen la hora, el ícono de Wi-Fi, el estado de la batería y la función de control de sonido.
