@@ -2,8 +2,7 @@
 
 macOS Ventura es la última versión del sistema operativo desarrollado por Apple para sus computadoras Mac. Presenta una serie de características y mejoras que hacen que la experiencia de usar una Mac sea aún más poderosa y conveniente.
 
-![MacBook](https://github.com/tuusuario/turepositorio/blob/main/imagenes/macbook.jpg)
-
+![MacBook](https://github.com/jorgeioslab/test/IntroduccionMacOS/blob/main/imagenes/Captura de pantalla 2023-08-16 a la(s) 13.51.07.png)
 
 ## Barra de menús
 
