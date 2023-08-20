@@ -36,6 +36,7 @@ Algunos ejemplos de variables inmutables son:
 
 ```swift
 let nombre = "Alberto"
-let apellido = "Besne"
+let pi = 3.1416
+let gravedad = 9.81
 let curso = "Swift"
 ```
