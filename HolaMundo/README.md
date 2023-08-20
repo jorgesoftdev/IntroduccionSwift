@@ -5,7 +5,7 @@ En este tutorial, aprenderemos cómo crear y ejecutar un simple programa "Hola M
 ## Paso 1: Abrir Xcode y crear un nuevo Playground
 
 1. Abre Xcode en tu Mac.
-2. Selecciona "Crear nuevo Xcode Playground" en la pantalla de inicio de Xcode.
+2. Selecciona "Archivo>Nuevo>Nuevo Playground" en la pantalla de inicio de Xcode.
 
 ## Paso 2: Nombrar y guardar el Playground
 
