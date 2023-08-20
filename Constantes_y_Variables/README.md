@@ -42,4 +42,4 @@ let curso = "Swift"
 ```
 ## Consideraciones generales
 
-En general, es una buena práctica utilizar let siempre que sea posible, ya que promueve la inmutabilidad y evita errores sutiles causados por cambios accidentales en el valor de una variable. Utiliza var solo cuando necesites cambiar el valor almacenado en la variable a lo largo del tiempo.
+En general, es una buena práctica utilizar `let` siempre que sea posible, ya que promueve la inmutabilidad y evita errores sutiles causados por cambios accidentales en el valor de una variable. Utiliza `var` solo cuando necesites cambiar el valor almacenado en la variable a lo largo del tiempo.
