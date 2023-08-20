@@ -31,3 +31,7 @@ var entero = 7 // Esto es correcto
 let nombre completo = "Alberto Besne" // Esto provocara un error
 let nombre_completo = "Alberto Besne" // Esto es correcto
 let nombreCompleto = "Alberto Besne" // Esto es correcto y usa el formato CamelCase
+
+5. **Sigue convenciones de nomenclatura:** Siempre es recomendable seguir las convenciones de nomenclatura aceptadas por la comunidad de desarrollo de Swift. Aunque no son reglas estrictas, son prácticas comunes:
+   - **Camel Case:** Se usa para nombrar variables compuestas por varias palabras. La primera palabra comienza con minúscula y las palabras siguientes comienzan con mayúscula. Ejemplo: `nombreCompleto`, `contadorDeUsuarios`.
+   - **Upper Camel Case (Pascal Case):** Se utiliza para nombrar tipos y clases. Cada palabra comienza con una letra mayúscula. Ejemplo: `MiClase`, `TipoDeDato`.
