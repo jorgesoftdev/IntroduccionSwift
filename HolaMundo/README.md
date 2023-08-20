@@ -23,3 +23,6 @@ import UIKit
 // Esto es un comentario
 print("¡Hola Mundo!")
 ```
+## Paso 4: Ejecutar el programa
+1. Después de escribir el código, deberías ver que aparece "¡Hola Mundo!" en el área de resultados del Playground.
+2. También puedes ver la salida en la barra lateral derecha del Playground, en la sección de "Resultados".
