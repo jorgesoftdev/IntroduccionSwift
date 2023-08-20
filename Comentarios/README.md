@@ -12,7 +12,7 @@ Los comentarios son una herramienta esencial en la programación, ya que permite
 
 4. **Aprendizaje y Enseñanza:** Los comentarios ayudan a los principiantes a comprender mejor el código y a aprender conceptos de programación. También son útiles para enseñar a otros programadores.
 
-## Formas de Comentar en Swift
+## Formas de Comentar código en Swift
 
 ### Comentarios de una Línea
 
