@@ -14,7 +14,7 @@ En este ejemplo, la variable edad se declara como mutable utilizando var. Luego,
 
 ## Variables Inmutables
 
-Las variables inmutables son aquellas cuyo valor no puede cambiar después de su inicialización. En Swift, se definen utilizando la palabra clave let. A continuación, se presenta un ejemplo de una variable inmutable:
+Las variables inmutables son aquellas cuyo valor no puede cambiar después de su inicialización. En Swift, se definen utilizando la palabra clave `let`. A continuación, se presenta un ejemplo de una variable inmutable:
 
 ```swift
 let nombre = "Juan"
