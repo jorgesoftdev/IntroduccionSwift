@@ -17,7 +17,7 @@ let constante: TipoDeDato
 ```
 Ejemplos: 
 ```swift
-var edad: Int
-let nombre: String
-var altura: Double
+var edad: Int = 22
+let nombre: String = "Alberto"
+var altura: Double = 1.80
 ```
