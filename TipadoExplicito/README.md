@@ -16,6 +16,7 @@ var variable: TipoDeDato
 let constante: TipoDeDato
 ```
 Ejemplos: 
+
 ```swift
 var edad: Int = 22
 let nombre: String = "Alberto"
