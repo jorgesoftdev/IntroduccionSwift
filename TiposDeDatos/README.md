@@ -2,7 +2,7 @@
 
 En Swift, los tipos de datos son fundamentales para almacenar y manipular valores en un programa. A continuación se presentan algunos tipos de datos básicos en Swift, junto con ejemplos para cada uno:
 
-## 1. Enteros (Integers)
+## 1. Enteros
 
 Representan números enteros, ya sean positivos o negativos.
 
@@ -13,7 +13,7 @@ let cantidad: Int = -5
 let poblacion: Int = 1000000
 let distancia: Int = 250
 ```
-## 2. Números de Punto Flotante (Floating-Point Numbers)
+## 2. Números de Punto Flotante 
 
 Representan números con decimales.
 
@@ -36,7 +36,7 @@ let estaRegistrado: Bool = true
 let luzPrendida: Bool = false
 ```
 
-## 4. Cadenas (Strings)
+## 4. Cadenas 
 
 Representan secuencias de caracteres.
 
@@ -66,8 +66,7 @@ Y asi eres tu.
 print(poema)
 ```
 
-## 5. Caracteres (Characters)
-
+## 5. Caracteres 
 Representan un solo carácter.
 
 Ejemplos:
@@ -77,7 +76,7 @@ let genero: Character = "M"
 let grupo: Character = "A"
 let simbolo: Character = "@"
 ```
-## 6. Tuplas (Tuples)
+## 6. Tuplas 
 
 Permiten agrupar múltiples valores en una sola entidad.
 
@@ -88,7 +87,7 @@ let persona: (String, Int) = (nombre: "Alicia", edad: 28)
 let punto: (Int, Int) = (x: 10, y: 20)
 let medidas: (Double, String) = (distancia: 3.5, unidad: "metros")
 ```
-## 7. Arrays
+## 7. Arreglos
 
 Representan colecciones ordenadas de elementos del mismo tipo.
 
@@ -99,7 +98,7 @@ let colores: [String] = ["Rojo", "Verde", "Azul"]
 let temperaturas: [Double] = [25.5, 30.2, 18.7]
 let edades: [Int] = [18, 25, 40, 32]
 ```
-## 8. Diccionarios (Dictionaries)
+## 8. Diccionarios 
 
 Representan colecciones no ordenadas de pares clave-valor.
 
@@ -110,7 +109,7 @@ let coordemadas: [String: Double] = ["latitud": 37.7749, "longitud": -122.4194]
 let informacion: [String: Any] = ["nombre": "Jorge", "edad": 24]
 ```
 
-## 9. Opcionales (Optionals)
+## 9. Opcionales 
 
 Permiten representar la posibilidad de que un valor no exista.
 
