@@ -59,7 +59,7 @@ let a = true
 let b = false
 let result = a && b // Resultado: false
 ```
-2. **OR Lógico (||):** Devuelve true si al menos una de las expresiones es verdadera.
+2. **OR Lógico (| |):** Devuelve true si al menos una de las expresiones es verdadera.
 
 ```swift
 let x = true
