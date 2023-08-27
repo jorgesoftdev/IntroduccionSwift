@@ -25,14 +25,48 @@ func imprimeTareas (arreglo: [Tarea]){
     if tipoTarea == "1" {
         for tarea in arreglo {
             print (tarea.nombre)
+            print (tarea.descripcion)
+            print (tarea.status)
+            print (tarea.id)
+            print ("---------------------")
+        }
+    } else if tipoTarea == "2"{
+        for tarea in arreglo {
+            if tarea.status == "Pendiente" {
+                print (tarea.nombre)
+                print (tarea.descripcion)
+                print (tarea.status)
+                print (tarea.id)
+                print ("---------------------")
+            }
+        }
+    } else if tipoTarea == "3"{
+        for tarea in arreglo {
+            if tarea.status == "Completado" {
+                print (tarea.nombre)
+                print (tarea.descripcion)
+                print (tarea.status)
+                print (tarea.id)
+                print ("---------------------")
+            }
+        }
+    } else {
+        print ("Opcion Invalida")
+    }
+}
+func completaTarea(arreglo: inout [Tarea], idTarea: Int){
+    for tarea in arreglo {
+        if tarea.id == idTarea {
+            tarea.status = "Completado"
         }
     }
 }
 repeat {
     print ("Que desea hacer?")
-    print ("Imprime Tareas  ...... (1)")
-    print ("Agrega tareas   ...... (2)")
-    print ("Salir           ...... (3)")
+    print ("Imprime tareas  ...... (1)")
+    print ("Agrega tarea    ...... (2)")
+    print ("Completar tarea ...... (3)")
+    print ("Salir           ...... (4)")
     var eleccion = readLine()
     switch eleccion {
         case "1":
@@ -41,6 +75,20 @@ repeat {
             agregaTarea(arreglo: &tareas, identificador: contadorTareas)
             contadorTareas += 1 
         case "3":
+            print("Sabes el identificador de la tarea?")
+            print ("Si .... (1)")
+            print ("No .... (2)")
+            var detectaTarea = readLine()
+            var idNum = Int(readLine() ?? "")
+            if detectaTarea == "1" {
+                completaTarea(arreglo: &tareas, idTarea: idNum)
+            } else if detectaTarea == "2"{
+                print ("Imprime las tareas y busca el id")
+                imprimeTareas(arreglo: tareas)
+            } else {
+                print ("Opción invalida")
+            }
+        case "4":
             print ("Salir")
             flujoPrograma = false
         default:
