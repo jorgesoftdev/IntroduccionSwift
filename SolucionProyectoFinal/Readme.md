@@ -1,4 +1,3 @@
-```swift
 var flujoPrograma = true
 var tareas: [Tarea] = []
 var contadorTareas = 1
@@ -17,11 +16,16 @@ func agregaTarea (arreglo: inout [Tarea], identificador: Int){
     arreglo.append(nuevaTarea)
     
 }
-func imprimeTareas (arreglo [Tarea]){
+func imprimeTareas (arreglo: [Tarea]){
     print ("Muestra todas las tareas       ...... (1)")
     print ("Muestra las tareas pendientes  ...... (2)")
     print ("Muestra las tareas completadas ...... (3)")
     let tipoTarea = readLine()
+    if tipoTarea == "1" {
+        for tarea in arreglo {
+            print (tarea.nombre)
+        }
+    }
 }
 repeat {
     print ("Que desea hacer?")
@@ -31,7 +35,7 @@ repeat {
     var eleccion = readLine()
     switch eleccion {
         case "1":
-            print ("Sigue")
+            imprimeTareas(arreglo: tareas)
         case "2":
             agregaTarea(arreglo: &tareas, identificador: contadorTareas)
             contadorTareas += 1 
@@ -42,4 +46,3 @@ repeat {
             print ("Elige una opcion correcta")
     }
 } while flujoPrograma
-```
