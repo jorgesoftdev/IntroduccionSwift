@@ -1,4 +1,4 @@
-# Proyecto Presentacion
+# Proyecto Presentación
 
 En este proyecto, los alumnos tendrán la oportunidad de crear un programa interactivo en Swift que les permitirá presentarse a sí mismos. A través de la función readLine(), los alumnos ingresarán su nombre, edad y carrera, y el programa generará una presentación personal que mostrará esta información en la consola.
 
