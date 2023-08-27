@@ -32,19 +32,13 @@ let div = 16 / 4 // Resultado: 4
 ```swift
 let modulo = 17 % 5 // Resultado: 2
 ```
-6. **Incremento (++) y Decremento(--):** Estos operadores aumentan o disminuyen el valor de una variable en 1.
-```swift
-var num = 5
-num++ // Ahora num es 6
-num-- // Ahora num es 5 nuevamente
-```
-7. **Operadores compuestos:** Son una combinación de un operador aritmético y un operador de asignación.
+6. **Operadores compuestos:** Son una combinación de un operador aritmético y un operador de asignación.
 ```swift
 var valor = 10
 valor += 5 // Equivalente a valor = valor + 5
 valor *= 2 // Equivalente a valor = valor * 2
 ```
-8. **Operador potencia:** Calcula la potencia de n de un numero
+7. **Operador potencia:** Calcula la potencia de n de un numero
 ```swift
 let potencia = 2 ** 3 // Resultado: 8
 ```
