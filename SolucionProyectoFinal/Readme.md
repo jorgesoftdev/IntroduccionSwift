@@ -1,3 +1,4 @@
+```swift
 var flujoPrograma = true
 var tareas: [Tarea] = []
 var contadorTareas = 1
@@ -46,3 +47,4 @@ repeat {
             print ("Elige una opcion correcta")
     }
 } while flujoPrograma
+```
