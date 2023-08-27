@@ -25,7 +25,8 @@ Tambien se pueden crear funciones sin parametros ni valores de retorno:
 
 ```swift
 func imprimirMensaje() {
-    print("Hola desde la función")
+    let nombre: String = "Alberto" // variable local
+    print("Hola \(nombre) desde la función")
 }
 imprimirMensaje() // Llama a la función y muestra "Hola desde la función"
 ```
