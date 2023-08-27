@@ -3,8 +3,8 @@
 Los arreglos son una estructura de datos fundamental en Swift y en la programación en general. Aquí hay algunas cosas importantes que debes saber sobre los arreglos en Swift:
 
 1. **Definición de Arreglos:**
-   - Un arreglo es una colección ordenada de elementos del mismo tipo.
-   - Se define usando corchetes (`[]`) y separando los elementos por comas.
+   -Un arreglo es una colección ordenada de elementos del mismo tipo.
+   -Se define usando corchetes (`[]`) y separando los elementos por comas.
    
    ```swift
    var numeros: [Int] = [1, 2, 3, 4, 5]
