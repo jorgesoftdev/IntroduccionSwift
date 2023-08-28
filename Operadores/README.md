@@ -106,3 +106,5 @@ let m = 20
 let n = 25
 let esMenorIgual = m <= n // Resultado: true
 ```
+
+[<< Anterior](../TipadoExplicito) | [Siguiente >>](../Arreglos)
