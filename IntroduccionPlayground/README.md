@@ -32,6 +32,8 @@ Un **Playground** es una característica de Xcode que permite escribir y probar 
 5. Dale un nombre al Playground y selecciona la ubicación donde deseas guardarlo.
 
 ![Paso 1](./Primera.png)
+![Paso 2](./Segunda.png)
+![Paso 3](./Tercera.png)
 
 ### Uso Básico:
 
