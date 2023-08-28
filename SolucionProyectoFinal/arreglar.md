@@ -1,4 +1,11 @@
 ```swift
+//
+//  main.swift
+//  CursoSwift
+//
+//  Created by Jorge on 28/08/23.
+//
+
 var flujoPrograma = true
 var tareas: [Tarea] = []
 var contadorTareas = 1
@@ -57,11 +64,12 @@ func imprimeTareas (arreglo: [Tarea]){
 func completaTarea(arreglo: inout [Tarea]){
     print ("Ingresa el id: ")
     let idTexto = readLine() ?? ""
-    let idInt = Int(idTexto)
-    for tarea in arreglo {
-        if tarea.id == idInt {
+    if let idInt = Int(idTexto), idInt <= arreglo.count && idInt > 0 {
+            let indice = idInt - 1
+            arreglo[indice].status = "Completado"
             print("Tarea completada")
-        }
+    } else {
+            print("ID inválido")
     }
 }
 repeat {
@@ -76,7 +84,7 @@ repeat {
             imprimeTareas(arreglo: tareas)
         case "2":
             agregaTarea(arreglo: &tareas, identificador: contadorTareas)
-            contadorTareas += 1 
+            contadorTareas += 1
         case "3":
             print("Sabes el identificador de la tarea?")
             print ("Si .... (1)")
