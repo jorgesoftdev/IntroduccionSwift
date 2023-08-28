@@ -81,3 +81,4 @@ repeat {
     contador += 1
 } while contador < 5
 ```
+[<< Anterior](../Condicionales) | [Siguiente >>](../Funciones)
