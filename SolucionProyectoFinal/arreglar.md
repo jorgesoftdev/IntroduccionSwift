@@ -1,3 +1,4 @@
+```swift
 var flujoPrograma = true
 var tareas: [Tarea] = []
 var contadorTareas = 1
@@ -53,10 +54,13 @@ func imprimeTareas (arreglo: [Tarea]){
         print ("Opcion Invalida")
     }
 }
-func completaTarea(arreglo: inout [Tarea], idTarea: Int){
+func completaTarea(arreglo: inout [Tarea]){
+    print ("Ingresa el id: ")
+    let idTexto = readLine() ?? ""
+    let idInt = Int(idTexto)
     for tarea in arreglo {
-        if tarea.id == idTarea {
-            tarea.status = "Completado"
+        if tarea.id == idInt {
+            print("Tarea completada")
         }
     }
 }
@@ -78,9 +82,8 @@ repeat {
             print ("Si .... (1)")
             print ("No .... (2)")
             var detectaTarea = readLine()
-            var idNum = Int(readLine() ?? "")
             if detectaTarea == "1" {
-                completaTarea(arreglo: &tareas, idTarea: idNum)
+                completaTarea(arreglo: &tareas)
             } else if detectaTarea == "2"{
                 print ("Imprime las tareas y busca el id")
                 imprimeTareas(arreglo: tareas)
@@ -94,3 +97,4 @@ repeat {
             print ("Elige una opcion correcta")
     }
 } while flujoPrograma
+```
