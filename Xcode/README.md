@@ -14,7 +14,7 @@
    - **Nombre y ubicación:** Asigna un nombre y elige la ubicación del proyecto.
    - **Equipo:** Selecciona tu equipo de desarrollo o "None".
    - **Organización:** Ingresa el nombre de tu organización (opcional).
-   - **Lenguaje:** Elige "Swift" o "C++".
+   - **Lenguaje:** Elige "Swift".
 
 4. **Crear el código de la aplicación:**
    - Abre el archivo "main.swift" en el panel de navegación.
@@ -27,3 +27,5 @@
 6. **Ejecuta la aplicación:**
    - Haz clic en el botón de "Ejecutar" (triángulo en la parte superior) en la barra de herramientas de Xcode.
    - Esto compilará y ejecutará tu aplicación de consola.
+
+[<< Anterior](../EnumyStruct) | [Siguiente >>](./MiniProyectoXcode)
