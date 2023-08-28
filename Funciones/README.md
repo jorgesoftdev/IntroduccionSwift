@@ -38,3 +38,4 @@ func sumar(a: Int, b: Int) -> Int {
 let resultadoSuma = sumar(a: 5, b: 3)
 print(resultadoSuma) // Imprimirá 8
 ```
+[<< Anterior](../EstructurasDeRepeticion) | [Siguiente >>](../EnumyStruct)
