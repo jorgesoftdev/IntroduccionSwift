@@ -21,3 +21,5 @@ Crea una aplicación de consola en Swift que funcione como un sistema de gestió
 9. **Interacción de Usuario:** Asegúrate de proporcionar instrucciones claras y opciones de menú intuitivas para que los usuarios puedan interactuar fácilmente con tu aplicación.
 
 Este proyecto te permitirá aplicar una variedad de conceptos de programación en Swift, desde el uso de estructuras y funciones hasta la implementación de condicionales y ciclos. Además, es una aplicación práctica que podría resultar útil en la vida cotidiana.
+
+[<< Anterior](../MiniProyectoXcode)
