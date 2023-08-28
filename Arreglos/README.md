@@ -61,3 +61,5 @@ Los arreglos son una estructura de datos fundamental en Swift y en la programaci
    let numerosOrdenados = numerosDesordenados.sorted() // Devuelve un nuevo arreglo ordenado
    numerosDesordenados.sort() // Ordena el arreglo original
    ```
+
+[<< Anterior](../Operadores) | [Siguiente >>](../Condicionales)
