@@ -126,9 +126,4 @@ default:
 }
 ```
 
-
-
-
-
-
-
+[<< Anterior](../Arreglos) | [Siguiente >>](../EstructurasDeRepeticion)
