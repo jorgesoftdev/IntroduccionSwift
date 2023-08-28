@@ -41,3 +41,4 @@ Espero que esta información te haya dado una visión general de las caracterís
 
 ![MacBook](https://github.com/jorgeioslab/test/blob/main/IntroduccionMacOS/CapturaPanel.png)
 
+[<< Anterior](../readMe.md) | [Siguiente >>](../IntroduccionPlayground)
