@@ -28,4 +28,4 @@
    - Haz clic en el botón de "Ejecutar" (triángulo en la parte superior) en la barra de herramientas de Xcode.
    - Esto compilará y ejecutará tu aplicación de consola.
 
-[<< Anterior](../EnumyStruct) | [Siguiente >>](./MiniProyectoXcode)
+[<< Anterior](../EnumyStruct) | [Siguiente >>](../MiniProyectoXcode)
