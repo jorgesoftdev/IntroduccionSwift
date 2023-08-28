@@ -49,3 +49,5 @@ func suma(a: Int, b: Int) -> Int {
 1. **Mantén la Claridad:** Escribe comentarios que sean claros y concisos, explicando lo que es necesario para comprender el contexto sin sobrecargar con detalles innecesarios.
 2. **Mantenlo Actualizado:** Si realizas cambios en el código, asegúrate de actualizar los comentarios correspondientes para que sigan siendo precisos.
 3. **Comenta el Código Complejo:** Si estás escribiendo código complejo o algoritmos ingeniosos, es especialmente importante comentar para ayudar a otros (y a ti mismo) a entenderlo.
+
+[<< Anterior](../HolaMundo) | [Siguiente >>](../Constantes_y_Variables)
