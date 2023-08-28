@@ -22,3 +22,4 @@ var edad: Int = 22
 let nombre: String = "Alberto"
 var altura: Double = 1.80
 ```
+[<< Anterior](../TiposDeDatos) | [Siguiente >>](../Operadores)
