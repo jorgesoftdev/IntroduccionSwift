@@ -19,3 +19,4 @@ Nombre: Alberto
 Edad: 20
 Carrera: mac
 ```
+[<< Anterior](../Xcode) | [Siguiente >>](../ProyectoFinal)
