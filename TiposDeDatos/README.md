@@ -8,10 +8,10 @@ Representan números enteros, ya sean positivos o negativos.
 
 Ejemplos:
 ```swift
-let edad: Int = 30
-let cantidad: Int = -5
-let poblacion: Int = 1000000
-let distancia: Int = 250
+let edad = 30
+let cantidad = -5
+let poblacion = 1000000
+let distancia = 250
 ```
 ## 2. Números de Punto Flotante 
 
@@ -19,10 +19,10 @@ Representan números con decimales.
 
 Ejemplos:
 ```swift
-let pi: Double = 3.14159
-let gravedad: Float = 9.81
-let temperatura: Double = -5.5
-let pecio: Float = 19.99
+let pi = 3.14159
+let gravedad = 9.81
+let temperatura = -5.5
+let pecio = 19.99
 ```
 ## 3. Booleanos
 
@@ -30,10 +30,10 @@ Representan valores verdadero o falso.
 
 Ejemplos:
 ```swift
-let estaSoleado: Bool = true
-let tienePermiso Bool = false
-let estaRegistrado: Bool = true
-let luzPrendida: Bool = false
+let estaSoleado = true
+let tienePermiso = false
+let estaRegistrado = true
+let luzPrendida = false
 ```
 
 ## 4. Cadenas 
@@ -42,10 +42,10 @@ Representan secuencias de caracteres.
 
 Ejemplos:
 ```swift
-let saludo: String = "Hola, mundo"
-let nombre: String = "Juan"
-let direccion: String = "123 Calle Principal"
-let bienvenida: String = "¡Bienvenidos a Swift!"
+let saludo = "Hola, mundo"
+let nombre = "Juan"
+let direccion = "123 Calle Principal"
+let bienvenida = "¡Bienvenidos a Swift!"
 ```
 Inteerpolacion de cadenas: La interpolación de cadenas te permite insertar valores dentro de una cadena utilizando la sintaxis \(valor).
 
@@ -71,10 +71,10 @@ Representan un solo carácter.
 
 Ejemplos:
 ```swift
-let inicial: Character = "J"
-let genero: Character = "M"
-let grupo: Character = "A"
-let simbolo: Character = "@"
+let inicial = "J"
+let genero = "M"
+let grupo = "A"
+let simbolo = "@"
 ```
 ## 6. Tuplas 
 
@@ -120,3 +120,4 @@ let temperatura: Double?
 let numero: Int?
 let direccion: String?
 ```
+[<< Anterior](../ReglasNombreDeVariables) | [Siguiente >>](../TipadoExplicito)
