@@ -7,7 +7,7 @@ Bienvenido al repositorio de Introducción a Swift. En este repositorio, encontr
 ### Contenido
 - [Introducción a MacOS](./IntroduccionMacOS)
 - [Introducción a Playground](./IntroduccionPlayground)
-- [Hola MUndo](./HolaMundo)
+- [Hola Mundo](./HolaMundo)
 - [Comentarios](./Comentarios)
 - [Constantes y variables](./Constantes_y_Variables)
 - [Reglas de nombres de variables](./ReglasNombreDeVariables)
