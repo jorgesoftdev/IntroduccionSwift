@@ -31,6 +31,8 @@ Un **Playground** es una característica de Xcode que permite escribir y probar 
 4. Escoge la plataforma (iOS, macOS, watchOS, tvOS) en la que deseas trabajar.
 5. Dale un nombre al Playground y selecciona la ubicación donde deseas guardarlo.
 
+![Paso 1](https://github.com/jorgeioslab/IntroduccuionSwift/blob/main/IntroduccionPlayground/Primera.png)
+
 ### Uso Básico:
 
 1. **Editor de Código**: Escribe tu código Swift en el área de edición en la parte central del Playground.
