@@ -62,3 +62,4 @@ let todosLosNumeros = numerosPares.union(numerosImpares) // Unión
 print(numerosComunes) // Imprimirá los números comunes entre los Sets
 print(todosLosNumeros) // Imprimirá todos los números sin duplicados
 ```
+[<< Anterior](../Funciones) | [Siguiente >>](../Xcode)
