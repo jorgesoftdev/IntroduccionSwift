@@ -43,3 +43,4 @@ Un **Playground** es una característica de Xcode que permite escribir y probar 
 
 Xcode es una herramienta esencial para desarrollar aplicaciones en los ecosistemas de Apple, y los Playgrounds dentro de Xcode ofrecen una manera interactiva y rápida de aprender, experimentar y prototipar código Swift. Ya sea que seas un principiante en programación o un desarrollador experimentado, Xcode y los Playgrounds pueden ser tus aliados para crear aplicaciones y comprender conceptos de manera más efectiva.
 
+[<< Anterior](../IntroduccionMacOS) | [Siguiente >>](../HolaMundo)
