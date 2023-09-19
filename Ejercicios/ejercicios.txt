@@ -1,0 +1,7 @@
+En un comentario de una linea escribe tu nombre de pila
+En un comentario multilinea escribe tu nombre de pila, tu carrera y tu edad
+Declara una variable de tipo string, booleano y entero y asigna un valor para cada una
+Declara 4 variables sin asignarles un valor
+Declara 4 variables de cualquier tipo y asigna un valor para cada una de ellas
+Declara las variables necesarias para almacenar tu nombre de pila, tu apellido , tu edad diferenciando entre var y let
+Realiza los ejercicios 3,4 y 5 agregando el tipado explicito
