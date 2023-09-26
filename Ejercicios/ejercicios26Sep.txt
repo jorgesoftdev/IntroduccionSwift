@@ -19,6 +19,6 @@ let num2 = -4
 10. Declara la variable
 let clima = "Soleado"
 Y crea una estructura switch para para determinar si el clima es agradable con los casos:
-case "Soleado"
-case "Nublado"
-case "Lloviendo"
+case "Soleado" -> Es agradable
+case "Nublado" -> No es agradable
+case "Lloviendo" -> No es agradable
