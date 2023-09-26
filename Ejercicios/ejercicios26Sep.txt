@@ -13,6 +13,12 @@ let b = 3
 Si 'a' es mas grande que 'b' imprime un mensaje que diga "A es mas grande que B"
 Utilizando If
 8. En una variable declara tu edad y utilizando el operador ternario determina si eres mayor de 21 o no impreso en pantalla
-9. Haz una estructura swich para cada variable siguiente donde se determine si un numero es positivo, negativo o es cero.
+9. Haz una estructura if, else if, else para cada variable siguiente donde se determine si un numero es positivo, negativo o es cero.
 let num1 = 3
 let num2 = -4
+10. Declara la variable
+let clima = "Soleado"
+Y crea una estructura switch para para determinar si el clima es agradable con los casos:
+case "Soleado"
+case "Nublado"
+case "Lloviendo"
