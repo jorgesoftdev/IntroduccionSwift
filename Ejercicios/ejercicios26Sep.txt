@@ -1,0 +1,18 @@
+1. Con las siguientes variables:
+let numero1 = 7
+let numero2 = 11
+Realiza tres operaciones aritmeticas y tres operaciones de comparación. 
+2. Declara un arreglo de enteros con mas de 5 elementos.
+3. Encuentra el numero de elementos del arreglo.
+4. Imprime el arreglo ordenado utilizando el metodo sort()
+5. Agrega un elemento dos elementos al arreglo
+6. Elimina el tercer elemento del arreglo
+7. Con las variables:
+let a = 4
+let b = 3
+Si 'a' es mas grande que 'b' imprime un mensaje que diga "A es mas grande que B"
+Utilizando If
+8. En una variable declara tu edad y utilizando el operador ternario determina si eres mayor de 21 o no impreso en pantalla
+9. Haz una estructura swich para cada variable siguiente donde se determine si un numero es positivo, negativo o es cero.
+let num1 = 3
+let num2 = -4
