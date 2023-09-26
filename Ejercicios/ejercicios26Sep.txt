@@ -5,7 +5,7 @@ Realiza tres operaciones aritmeticas y tres operaciones de comparación.
 2. Declara un arreglo de enteros con mas de 5 elementos.
 3. Encuentra el numero de elementos del arreglo.
 4. Imprime el arreglo ordenado utilizando el metodo sorted()
-5. Agrega un elemento dos elementos al arreglo
+5. Agrega dos elementos al arreglo
 6. Elimina el tercer elemento del arreglo
 7. Con las variables:
 let a = 4
