@@ -10,7 +10,7 @@ var arreglo : [Int] = []
 7. Crea una funcion que reciba como paramatros la base y altura de un triangulo y regrese el area como valor de retorno
 8. Crea una estructura llamada estudiante con todos sus atributos.
 9. Crea un set con los numeros del 1 al 10
-10. Elimina un elemento del set
+10. Revisa si el numero 7 esta en el set
 11. Con las variables
 ```swift
 const a = [4, 5, 8, 9]
