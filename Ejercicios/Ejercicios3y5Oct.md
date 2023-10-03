@@ -13,7 +13,7 @@ var arreglo : [Int] = []
 10. Revisa si el numero 7 esta en el set
 11. Con las variables
 ```swift
-const a = [4, 5, 8, 9]
-const b = [3, 4, 5, 7]
+let a : Set<Int> = [4, 5, 8, 9]
+let b : Set<Int> = [3, 4, 5, 7]
 ```
 a) Encuentra la union y la interseccion de a con b
