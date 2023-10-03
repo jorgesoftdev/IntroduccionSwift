@@ -7,7 +7,7 @@ var arreglo : [Int] = []
 4. Impime una cuenta regresiva del 10 al 1 usando while
 5. Crea una funcion que no reciba parametros llamada nombreCompleto que imprima tu nombre
 6. Crea una funcion que reciba como parametros tu nombre y apellido e imprima "Hola soy nombre apellido"
-7. Crea una funcion que reciba como paramatros la base y altura de un triangulo e imprima su area
+7. Crea una funcion que reciba como paramatros la base y altura de un triangulo y regrese el area como valor de retorno
 8. Crea una estructura llamada estudiante con todos sus atributos.
 9. Crea un set con los numeros del 1 al 10
 10. Elimina un elemento del set
